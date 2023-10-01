@@ -1,7 +1,8 @@
 # computerVisionProjects
 I have made Multiple Projects using Python and openCV for Computer Vision which include,
+--------------------------------------------------------------------------------------
 Project 1: Pose Estimation and AI Trainer
-
+--------------------------------------------------------------------------------------
 Description:
 The Pose Estimation and AI Trainer project is a remarkable blend of computer vision and artificial intelligence. It utilizes OpenCV and the powerful Google Mediapipe framework to analyze human body movements in real time. By tracking key body joints and landmarks, it can precisely estimate a person's posture and gestures, making it a versatile tool for various applications.
 
@@ -15,8 +16,9 @@ Use Cases:
 Fitness tracking: Ideal for individuals looking to improve their workout routines and ensure correct exercise form.
 Physical therapy: Can be used in rehabilitation settings to monitor patients' movements and progress.
 Gesture recognition: Potential applications in gaming, sign language translation, and interactive installations.
+----------------------------------------------------------------------------------------------------------------
 Project 2: Face Detection
-
+----------------------------------------------------------------------------------------------------------------
 Description:
 The Face Detection project harnesses the power of computer vision to identify and track human faces within a video stream or image. Built on OpenCV, this project offers a foundation for various face-related applications by detecting faces and their movements in real time.
 
@@ -30,8 +32,9 @@ Use Cases:
 Facial recognition: Suitable for building facial recognition systems for security, access control, or personalization.
 Emotion analysis: This can be integrated with AI models to analyze facial expressions for emotion detection.
 Attendance systems: Ideal for creating automated attendance systems based on face recognition.
+-----------------------------------------------------------------------------------------------
 Project 3: Face Mesh
-
+-----------------------------------------------------------------------------------------------
 Description:
 The Face Mesh project takes facial analysis to the next level by tracking the intricate details of the human face. Leveraging the Mediapipe framework, it can identify and track numerous facial landmarks, enabling precise monitoring of facial movements and expressions.
 
@@ -45,8 +48,9 @@ Use Cases:
 Animation and special effects: Can be used in animation and film production to capture facial expressions.
 Virtual try-on: Ideal for virtual makeup try-on apps, eyeglass fittings, and other cosmetic applications.
 Art and education: Useful for art projects, facial anatomy education, and creative expressions.
+----------------------------------------------------------------------------------------------------------
 Project 4: Hand Detection and Gesture Controls
-
+----------------------------------------------------------------------------------------------------------
 Description:
 The Hand Detection and Gesture Controls project brings the power of hand tracking and gesture recognition to life. Built on OpenCV and Mediapipe, it accurately detects and tracks hand movements in real time. Moreover, it includes a project that enables gesture-based volume control on a device.
 

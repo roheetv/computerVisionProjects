@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bicep Curls Counter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            color: #333;
+            padding-top: 20px;
+            font-size: 36px; /* Increase font size */
+        }
+
+        #video-container {
+            max-width: 100%;
+            margin: 0 auto;
+            border: 3px solid #ddd; /* Add a border around the video container */
+            border-radius: 10px; /* Add rounded corners */
+            overflow: hidden; /* Hide any overflowing content */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+        }
+
+        #video-feed {
+            width: 100%;
+            max-width: 1280px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="color: #007BFF;">Bicep Curls Counter</h1> <!-- Inline CSS for h1 color -->
+    <div id="video-container">
+        <img id="video-feed" src="{{ url_for('video_feed') }}" alt="Video Feed">
+    </div>
+</body>
+</html>
